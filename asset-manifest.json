@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Consultancy-website/static/css/main.5bfad13c.css",
+    "main.js": "/Consultancy-website/static/js/main.261fe3cc.js",
+    "static/media/1.png": "/Consultancy-website/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/4.jpg": "/Consultancy-website/static/media/4.9bae92981bff135650c7.jpg",
+    "static/media/3.jpg": "/Consultancy-website/static/media/3.f2d5b741b06a522a8eb7.jpg",
+    "static/media/2.webp": "/Consultancy-website/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/Consultancy-website/index.html",
+    "main.5bfad13c.css.map": "/Consultancy-website/static/css/main.5bfad13c.css.map",
+    "main.261fe3cc.js.map": "/Consultancy-website/static/js/main.261fe3cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfad13c.css",
+    "static/js/main.261fe3cc.js"
+  ]
+}
